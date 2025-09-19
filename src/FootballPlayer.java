@@ -48,6 +48,12 @@ public class FootballPlayer {
 
 
         //task3
+        System.out.println(" ");
+        System.out.println("Current age is-"+ age);
+        age++;
+        jerseyNumber--;
+        System.out.println("New age- "+ age);
+        System.out.println("The new jersey number- " + jerseyNumber);
 
 
     }
